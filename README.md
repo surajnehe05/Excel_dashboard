@@ -41,3 +41,6 @@
 - Target Achievement Analysis
 - Business Decision Support
 - Interactive Reporting for Managers
+
+## 🔹 ScreenShot
+![App Screenshot](https://github.com/user-attachments/assets/bef58290-0eda-4a4a-9d01-1bc8b9df570c)
