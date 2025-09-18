@@ -34,6 +34,8 @@
 3. Navigate to the **DASHBOARD** sheet to view KPIs and charts.
 4. Update or add new entries in the **RAW DATA** sheet – the dashboard refreshes automatically.
 
+   
+
 ## 🔹 Applications
 - Sales Team Performance Tracking
 - Target Achievement Analysis
